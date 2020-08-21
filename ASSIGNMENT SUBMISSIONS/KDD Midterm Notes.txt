@@ -1,0 +1,30 @@
+Name
+Manuf
+Type
+
+
+Name            77 non-null category
+Manuf           77 non-null category
+Type            77 non-null category
+Calories        77 non-null float64
+Protein         77 non-null int64
+Fat             77 non-null float64
+Sodium          77 non-null int64
+Fiber           77 non-null float64
+Carbo           77 non-null float64
+Sugars          77 non-null float64
+Potass          77 non-null float64
+Vitamins        77 non-null int64
+Shelf           77 non-null int64
+Weight          77 non-null float64
+Cups            77 non-null float64
+Rating          77 non-null float64
+Cold            77 non-null int64
+Nabisco         77 non-null int64
+Quaker          77 non-null int64
+Kelloggs        77 non-null int64
+GeneralMills    77 non-null int64
+Ralston         77 non-null int64
+AHFP            77 non-null int64
+dtypes: category(3), float64(9), int64(11)
+memory usage: 15.9 KB
